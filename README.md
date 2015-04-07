@@ -1,7 +1,8 @@
 # Life Extravaganza
 
 This project is meant to bring a nice little eyecandy idea from the 1990s
-to modern platforms. So far, I implemented a variant of the idea in Python.
+to modern platforms. So far, I implemented a variant of the idea in Python,
+but variants that work in a browser are much welcome.
 
 ## Quick start
 
