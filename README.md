@@ -87,7 +87,7 @@ simulate survival of the fittest. However, the above-mentioned parameters do
 not have an apparent phenotype, and they would be hard to visualize.
 
 Going further, one might replace the concept of teams by species. As in real
-life, it is hard to come up with a working definition of species. It is simple
+life, it is hard to come up with a working definition of a species. It is simple
 to define a metric on genes, that is, a notion of genetic distance. But it is
 hard to derive an equivalence relation from such a metric: imagine three
 livators A, B, and C, where A is close to B, B is close to C, but A is not
