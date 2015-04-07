@@ -4,7 +4,7 @@
 # written by Matthias Büchse, Dresden
 # adapting a boyhood idea by Christian Kothe
 # Matthias' program is under GPL 3.0 (see LICENSE file)
-# Christians' idea is under CC-BY-SA 4.0 (see http://creativecommons.org/licenses/by-sa/4.0/)
+# Christian's idea is under CC-BY-SA 4.0 (see http://creativecommons.org/licenses/by-sa/4.0/)
 
 import cProfile
 import pstats

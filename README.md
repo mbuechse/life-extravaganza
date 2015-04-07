@@ -80,8 +80,11 @@ Each livator's life is governed by a set of parameters:
 * probability of starting an acceleration phase,
 * the size at which to divide into two,
 * the maximum size,
-and probably others. It might be interesting to introduce mutation into this
-scenario. However, this would be hard to visualize.
+and probably others.
+
+It might be interesting to introduce mutation into this scenario so as to
+simulate survival of the fittest. However, the above-mentioned parameters do
+not have an apparent phenotype, and they would be hard to visualize.
 
 Going further, one might replace the concept of teams by species. As in real
 life, it is hard to come up with a working definition of species. It is simple
@@ -92,5 +95,5 @@ close to C. Then how can these livators be grouped into teams?
 
 ## License
 
-This implementation is under [GPLv3](LICENSE). Christians' idea is under
+This implementation is under [GPLv3](LICENSE). Christian's idea is under
 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
