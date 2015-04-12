@@ -54,7 +54,9 @@ This could involve you!
 It would be cool to have an implementation in HTML 5/JavaScript, but I cannot
 stomach JavaScript at all, nor its brethren CoffeeScript and the like.
 Fortunately, there may be an alternative route towards such an implementation
-that goes via C++, LLVM, and emskripten, as demonstrated by Unreal Engine 4.
+that goes via C++, LLVM, and [emscripten](https://github.com/kripken/emscripten),
+as demonstrated by Unreal Engine 4. Or one might even use
+[empythoned](https://github.com/replit/empythoned).
 
 ### Come closer to the original version
 
